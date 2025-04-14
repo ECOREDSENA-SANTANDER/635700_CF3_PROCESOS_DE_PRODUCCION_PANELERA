@@ -2,29 +2,198 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 40%
+    right: 50%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 15%
+    right: 50%
 
 @keyframes float1
   0%
     transform: translateY(20px)
+
   100%
     transform: translateY(0px)
-  
 
-.banner-principal .tarjeta
-  background-position: left 50% !important
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
-.banner-interno__titulo__icono i
-  color: $color-primario
-figcaption
-  font-weight: normal
+@media screen and (max-width: 767px)
+  figure > img
+    max-width: 350px
+      margin: 1rem auto;
+
+//COLORES CORTOS
+.cp
+  color: $color-primario !important
+
+.cs
+  color: $color-secundario !important
+
+.cac
+  color: $color-acento-contenido !important
+
+.cab
+  color: $color-acento-botones !important
+
+.ca1
+  color: $color-adicional-1 !important
+
+.ca2
+  color: $color-adicional-2 !important
+
+.ct
+  color: $color-tipografia !important
+
+.cet
+  color: $color-etiqueta-texto !important
+
+.pc1
+  background-color: rgb(210, 225, 241)
+
+.ctpc
+  background-color: rgb(249, 247, 236) !important
+
+.tarjeta--rosa
+  background-color: rgb(251, 225, 225) !important
+
+.tarjeta--rosa2
+  background-color: rgb(251, 224, 224) !important
+
+.tarjeta--lila
+  background-color: rgb(237, 229, 249) !important
+
+.tarjeta--curuba
+  background-color: rgb(251, 237, 223) !important
+
+.tarjeta--acordeon
+  background-color: rgb(246, 219, 191)
+
+.cuadro-texto
+  background-color: rgb(252, 240, 229) !important
+
+.boton
+  span
+    color: $white
+  i
+    color: $white
+
+.barra-avance__boton--regresar
+  span
+    color: $white !important
+  i
+    color: $white
+
+.acordion__accion__btn--a
+  background-color: #81AF1D !important
+
+.acordion__activo
+  background-color: #F6F6F6 !important
+
+.borde-redondo
+  border-radius: 15px
+
+.banner-interno__fondo
+    background-position: bottom !important
+
+a.boton.barra-avance__boton--regresar
+  &:hover
+    color: white !important
+
+a.boton
+  &:hover
+    color: white !important
+
+.slyder-a__bullets__item--active
+  background-color: #E2872C !important
+  border-color: #E2872C
+
+.slyder-a__bullets__item
+  background-color: #F2C1A1
+
+.col-sm-6.col-lg-4.col-xl.tabs-c__tab.py-3.tabs-c__tab--active
+  font-weight: bold
+
+.bloque-texto-izq
+    position: relative
+    display: flex
+    justify-content: flex-start
+
+.bloque-texto-izq__img
+    width: 50%
+    position: absolute
+    top: 0
+    right: 0
+    bottom: 0
+    background-position: right
+    background-size: cover
+
+.bloque-texto-izq__texto
+    position: relative
+    width: 60%
+    background-color: rgba(255, 255, 255, 0.95)
+
+.bloque-texto-a.color-acento-contenido
+  background-color: $color-acento-contenido !important
+
+.tarjeta.color-acento-botones.p-4
+  height: 415px
+
+.img3-1
+  &::before
+    background-image: url('../assets/curso/temas/tema3/img3-1.png')
+    background-size: cover
+    background-position: center center
+
+
+.BGIMG01
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: top right
+
+.BGIMG01
+  background-image: url("../assets/curso/recursos/fondo_slider.png")
+
+
+.slyder-a__btn--sigt,
+.slyder-a__btn--atrs
+  background-color: #E2872C
+  border: 1px solid #E2872C
+
+
+.acordion__accion__btn--a
+  background-color: #81AF1D
+
+.tarjeta-verde
+  background: #F0FCD4
+
+.img-infografica__tooltip
+  background-color: rgba(80,0,199,0.9)
+
+.img-infografica__tooltip p
+  color: #fff
+
+.cajon.color-secundario
+  background: rgba(226, 135, 44, .12)
+
+
+.linea-tiempo-c__header__btn,
+.linea-tiempo-c__header__btn--left,
+.linea-tiempo-c__header__btn--right,
+.pasos-b__header__btn--left,
+.pasos-b__header__btn--right
+  border: 2px solid #E2872C
+  background-color: #E2872C
+
+.bgGray-2
+  background-color: #F6F6F6
+
+.bgVerdeFluorescente
+  background-color: #C0F748
+
+.horizontal-scroll
+  align-items: stretch !important
+
+.referencias__item
+  display: flex
+  flex-direction: column
  
