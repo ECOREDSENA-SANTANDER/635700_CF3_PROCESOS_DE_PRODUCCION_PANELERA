@@ -115,8 +115,8 @@
   
       p.mb-5 A continuación, se expone el proceso de purificación de los jugos:
   
-      .row.mb-5
-        .col-lg-4.mb-sm-4(data-aos='fade-right')
+      .row.justify-content-center.mb-5
+        .col-lg-4.col-sm-6.col-8.mb-4(data-aos='fade-right')
           figure
             img(src='@/assets/curso/temas/tema1/img1-13.png', alt="Jugo de caña")
         .col-lg-8(data-aos="fade-left")
@@ -278,8 +278,8 @@
   
       p.mb-5 La resolución número 2546 de 2004 del Ministerio de Protección Social, establece el reglamento técnico de emergencia a través del cual se señala los requisitos sanitarios que se deben cumplir en la producción y comercialización de la panela para el consumo humano y se dictan otras disposiciones (Ministerio de Protección Social, 2004), a continuación, se dan a conocer algunos de los requisitos que deben ser considerados:
   
-      .row.justify.content-center.mb-5
-        .col-lg-4.mb-sm-4(data-aos='fade-right')
+      .row.justify-content-center.mb-5
+        .col-lg-4.col-sm-6.col-8(data-aos='fade-right').mb-3
           figure
             img(src='@/assets/curso/temas/tema1/img1-23.svg', alt="EPP")
         .col-lg-8(data-aos="fade-left")
@@ -365,6 +365,7 @@ figcaption.br
     width: 420px
     height: 306px
     background-image: url("../assets/curso/temas/tema1/img1-15.svg")
+
 
 #cajon_t1-4
   position: relative

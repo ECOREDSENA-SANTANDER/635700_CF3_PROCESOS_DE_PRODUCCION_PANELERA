@@ -27,7 +27,7 @@
             p.mb-0 Las buenas prácticas de manufactura, constituyen un acúmulo de principios con el objetivo de certificar los productos cuya fabricación se haga en condiciones sanitarias apropiadas y de esta manera minimicen los riesgos que lleva consigo la producción de panela y su distribución. Por eso la implementación de las BPM en la industria panelera deben asegurar la calidad, sanidad e inocuidad, aplicando los procesos de elaboración y manipulación para la obtención de productos óptimos para el consumo. (Regino et al., 2019), (Mendieta et al., 2016).
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-sm-4
+      .col-lg-3.mb-sm-4.col-9.mb-4
         figure(data-aos='fade-left')
           img(src='@/assets/curso/temas/tema3/img3-2.svg', alt='Película')
       .col-lg-5(data-aos="fade-right")
@@ -98,7 +98,7 @@
     p.mb-5 Como su nombre lo indica se refiere al cuidado del entorno y los recursos naturales. En este documento de estudio se ha hecho hincapié en este item, para minimizar la producción de desechos generados del proceso panelero y mitigar el impacto negativo al ambiente, adicional a ello, los estatutos procuran soportar la economía de todas las actividades realizadas durante la estandarización en la elaboración de panela. Las resoluciones colombianas expiden una serie de leyes que regulan las actividades para dar la tranquilidad, sin que puedan afectar la salud del consumidor.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-sm-3(data-aos='fade-left')
+      .col-lg-3.col-sm-3.col-8.mb-3(data-aos='fade-left')
         figure
           img(src='@/assets/curso/temas/tema3/img3-7.svg', alt='Mazo')
       .col-lg-9.col-sm-9(data-aos="fade-right")
@@ -174,13 +174,13 @@
     p.mb-5(data-aos="fade-right") Con el fin de garantizar el cumplimiento de las BPM en el proceso de producción panelera, y a su vez la inocuidad y calidad, se hace importante contar con documentos que declaren el cumplimiento de requisitos. A continuación, se presentan algunos de ellos, haciendo hincapié en los principales documentos necesarios en la producción (Mendieta et al., 2016).
 
     .row.justify-content-center.mb-5
-      .col-lg-4.mb-sm-4(data-aos='fade-right')
+      .col-lg-4.col-sm-6.col-8.mb-3(data-aos='fade-right')
         figure
           img(src='@/assets/curso/temas/tema3/img3-14.svg', alt="Reportes")
       .col-lg-8(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta-verde")
           .row(titulo="La documentación")
-            .col-md-2.col-sm-2
+            .col-md-2.col-sm-2.col-4.mb-3
               figure
                 img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-15.svg', alt="Documentos")
             .col-md-10.col-sm-10
@@ -189,7 +189,7 @@
 
           div(titulo="La trazabilidad interna")
             .row
-              .col-md-2.col-sm-2
+              .col-md-2.col-sm-2.col-4.mb-3
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-16.svg', alt="Trazabilidad")
               .col-md-10.col-sm-10
@@ -198,7 +198,7 @@
 
           div(titulo="Los procedimientos")
             .row
-              .col-md-2.col-sm-2
+              .col-md-2.col-sm-2.col-4.mb-3
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-17.svg', alt="Procedimientos")
               .col-md-10.col-sm-10
@@ -207,7 +207,7 @@
 
           div(titulo="Los instructivos")
             .row
-              .col-md-2.col-sm-2
+              .col-md-2.col-sm-2.col-4.mb-3
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-18.svg', alt="Instructivo")
               .col-md-10.col-sm-10
@@ -216,7 +216,7 @@
 
           div(titulo="Otros requerimientos")
             .row
-              .col-md-2.col-sm-2
+              .col-md-2.col-sm-2.col-4.mb-3
                 figure
                   img(data-aos='fade-right')(src='@/assets/curso/temas/tema3/img3-19.svg', alt="Hojas")
               .col-md-10.col-sm-10
