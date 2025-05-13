@@ -96,7 +96,7 @@
               figure.mt-4
                 img(src='@/assets/curso/temas/tema1/img1-11.png', alt='Jugo crudo de caña de azúcar')
             .col-md-6
-              p.mt-4 El jugo crudo (guarapo) y sin clarificar, se limpia en frío utilizando un sistema de decantación natural, por efecto de la gravedad denominado prelimpiador. Este retiene la precipitación de una importante proporción de los sólidos contenidos en el jugo de la caña, como tierra, lodo y arena; simultáneamente, por flotación, el prelimpiador separa partículas livianas como bagacillo, hojas, insectos, entre otros. (Cadavid, 2007)
+              p.mt-4 El jugo crudo (guarapo) y sin clarificar, se limpia en frío utilizando un sistema de decantación natural, por efecto de la gravedad denominado prelimpiador. Este retiene la precipitación de una importante proporción de los sólidos contenidos en el jugo de la caña, como tierra, lodo y arena; simultáneamente, por flotación, el prelimpiador separa partículas livianas como bagacillo, hojas, insectos, entre otros. (Cadavid, 2007).
   
           .row(titulo="Paso 7").justify-content-evenly
             .col-md-4.col-sm-12.mb-4.mb-md-0
@@ -104,7 +104,7 @@
                 img(data-aos='fade-right')(src='@/assets/curso/temas/tema1/img1-12.svg', alt='Composición del guarapo')
                 figcaption.mt-2.br Nota: Adaptado de Cobeña Morán & Loor Chávez, (2016).
             .col-md-6
-              p.mt-4 Según la FAO (2013), con respecto a los requisitos físico químicos para el “jugo de caña de azúcar” sólido o en bloque, de acuerdo con los comentarios remitidos y la revisión de los estudios realizados, se incluyó un nivel mínimo del 75 % para azúcares totales, así como también un nivel máximo del 10 % para edulcorantes reductores, dado que, para favorecer la granulometría y reducir los cambios reológicos, es necesario contar con la inversión de la sacarosa. (Cobeña Morán & Loor Chávez, 2016)
+              p.mt-4 Según la FAO (2013), con respecto a los requisitos físico químicos para el “jugo de caña de azúcar” sólido o en bloque, de acuerdo con los comentarios remitidos y la revisión de los estudios realizados, se incluyó un nivel mínimo del 75 % para azúcares totales, así como también un nivel máximo del 10 % para edulcorantes reductores, dado que, para favorecer la granulometría y reducir los cambios reológicos, es necesario contar con la inversión de la sacarosa. (Cobeña Morán & Loor Chávez, 2016).
   
       Separador
   
@@ -208,7 +208,7 @@
             .row.justify-content-start.align-items-center
               .col-lg-9.col-12
   
-                p.mb-0 La panela se ha caracterizado por ser un producto prometedor, incluido dentro del consumo de alimentos que se denominan saludables y poco procesados. La limitada evolución tecnológica en el proceso de producción, puede comprometer la eficiencia y la rentabilidad; la medida para disponer de la mejor trazabilidad de la panela, enfrenta desafíos coordinados como la estandarización del proceso y de las características del producto final. (Guerrero & Escobar, 2015)
+                p.mb-0 La panela se ha caracterizado por ser un producto prometedor, incluido dentro del consumo de alimentos que se denominan saludables y poco procesados. La limitada evolución tecnológica en el proceso de producción, puede comprometer la eficiencia y la rentabilidad; la medida para disponer de la mejor trazabilidad de la panela, enfrenta desafíos coordinados como la estandarización del proceso y de las características del producto final. (Guerrero & Escobar, 2015).
   
   
   
@@ -290,7 +290,7 @@
               p c. Las áreas de riesgo deben estar claramente identificadas y demarcadas.
   
             div(titulo="Sobre el personal capacitado")
-              p Deben contar con conocimientos referentes a la normatividad sanitaria y el cumplimiento de las buenas prácticas de manufactura dentro de las instalaciones, priorizando el área de moldeo y almacenamiento, entre otros. Se incluyó formación básica sobre los programas que son exigidos por el INVIMA, como: control de plagas, capacitación, limpieza y desinfección. (Rozo, 2013)
+              p Deben contar con conocimientos referentes a la normatividad sanitaria y el cumplimiento de las buenas prácticas de manufactura dentro de las instalaciones, priorizando el área de moldeo y almacenamiento, entre otros. Se incluyó formación básica sobre los programas que son exigidos por el INVIMA, como: control de plagas, capacitación, limpieza y desinfección. (Rozo, 2013).
   
             div(titulo="Sobre el uso de elementos de protección personal")
               ol

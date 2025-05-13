@@ -140,8 +140,8 @@ export default {
       },
       {
         icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CF03_635700_DU.pdf',
       },
       {
         icono: 'far fa-registered',
@@ -154,7 +154,7 @@ export default {
     {
       tema: 'Jugos de la caña y su clasificación',
       referencia:
-        'La Casa de la Cultura Talea de Castro Talea. (2014). <em>Elaboración de la panela con jugo de caña</em> (video). YouTube.',
+        'Del rincón de la Sierra Juárez - Rincón de ensueño - Talea de Castro - Mi vida es el campo. (2014). Elaboración de la panela con jugo de caña (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=SMn6lddVaZI',
     },

@@ -21,8 +21,8 @@
   
       figure(data-aos="zoom-in")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/d-83QW4dQHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-  
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/B8JucJE_kk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: limpieza del jugo de caña
   </template>
 
 <script>

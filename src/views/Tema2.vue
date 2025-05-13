@@ -96,7 +96,7 @@
       .py-4.py-md-5(titulo="Cachaza")
         .row.mb-4
           p El jugo fresco de caña, resultado de la molienda, debe someterse a una limpieza para eliminar las partículas que no pueden formar parte del producto final; todo esto, gracias a la floculación y aglutinación de las impurezas; en este proceso, se eleva la temperatura y, adicional a ello, se agrega la cal y se procede a la agitación con plantas naturales, creando una sustancia conocida como mucílago. En la superficie se ve una capa de aspecto coloidal, con aproximadamente 20 % de materia seca, el cual está compuesto por sacarosa, azúcares reductores, ceniza en poca cantidad y proteínas; a este subproducto se le denomina cachaza, que también es rica en fósforo, calcio, nitrógeno y materia orgánica y es bajo en potasio.
-
+          h3.text-center Composición de la cachaza
         .row.justify-content-center.align-items-center
           .col-md-12
             .tabla-a.color-acento-botones 

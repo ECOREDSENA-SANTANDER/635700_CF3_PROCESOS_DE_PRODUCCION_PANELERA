@@ -103,7 +103,7 @@
           img(src='@/assets/curso/temas/tema3/img3-7.svg', alt='Mazo')
       .col-lg-9.col-sm-9(data-aos="fade-right")
         p.mb-5 Por las particularidades del proceso productivo, las materias primas e insumos que generalmente son utilizados y los desechos que pueden ser originados; las normas deben ser acatadas en un estricto orden en este ítem se nombran las normativas que rigen para el sector panelero:
-        h5.mb-4 Decreto 1076 2015 (mayo 26 de 2015): Sector Ambiente y Desarrollo Sostenible
+        h5.mb-4 Decreto 1076 2015 (mayo 26 de 2015): sector ambiente y desarrollo sostenible
         ul.lista-ul
         li.mb-3
           i
